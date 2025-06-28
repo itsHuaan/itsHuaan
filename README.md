@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/370362596_1415712309209529_4154762833546546927_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFgl4_pPLBzgsWiOe6sL8nXwrb-Wm3bS7TCtv5abdtLtC2BZheHWwI5huXx2wqsK2KSuc4C6AY-BT0xDjkYuf-u&_nc_ohc=uktLSNm2ScIQ7kNvgHxq5Bm&_nc_oc=AdhdUZrLLIBOK9PHOPqNMzaXps8OFPxEsyxAgqRN3rMj499ozZ1Wr5vO-H8uNMF6Kij92oG-0ZgVvs21MUQ9j91j&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=AEmNoBXYaLMHgrSwQabTa69&oh=00_AYALu-Cq-axDTXzmK2ssZ1_r0RzjCfYKauwYLWiLGm3brA&oe=677DF4FE"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="40" />
