@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 150" width="100%" height="150">
+  <style>
+    .blink { animation: blinker 1s step-end infinite; }
+    @keyframes blinker { 50% { opacity: 0; } }
+    text { font-family: monospace; white-space: pre; fill: #c9d1d9; font-size: 14px; }
+  </style>
+  <text x="0" y="20">
+    <tspan x="0" dy="0">██╗████████╗███████╗██╗  ██╗██╗   ██╗ █████╗  █████╗ ███╗   ██╗    ██╗</tspan>
+    <tspan x="0" dy="1.2em">██║╚══██╔══╝██╔════╝██║  ██║██║   ██║██╔══██╗██╔══██╗████╗  ██║    ╚██╗</tspan>
+    <tspan x="0" dy="1.2em">██║   ██║   ███████╗███████║██║   ██║███████║███████║██╔██╗ ██║     ╚██╗</tspan>
+    <tspan x="0" dy="1.2em">██║   ██║   ╚════██║██╔══██║██║   ██║██╔══██║██╔══██║██║╚██╗██║     ██╔╝</tspan>
+    <tspan x="0" dy="1.2em">██║   ██║   ███████║██║  ██║╚██████╔╝██║  ██║██║  ██║██║ ╚████║    ██╔╝<tspan class="blink">███████╗</tspan></tspan>
+    <tspan x="0" dy="1.2em">╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝ <tspan class="blink">╚══════╝</tspan></tspan>
+  </text>
+</svg>
